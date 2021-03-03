@@ -39,7 +39,7 @@
         </div>
     
     
-    </div id="select">
+    <div id="select">
         <h2>READ</h2>
         <form action="UserController.php" method="POST">
             <p>Please enter the ID to retrieve a certain patient's information.</p>
@@ -47,4 +47,5 @@
             <input type="submit" name="findButton" value="Get Patient"/>
             <input type="submit" name="findAllButton" value="Get All Patients"/>
         </form>
+    </div>
 </body>
