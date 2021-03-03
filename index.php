@@ -38,7 +38,6 @@
             </form>
         </div>
     
-    
     <div id="select">
         <h2>READ</h2>
         <form action="UserController.php" method="POST">
